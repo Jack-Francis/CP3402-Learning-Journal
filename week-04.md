@@ -1,4 +1,4 @@
-# Learning Journal Week XX
+# Learning Journal Week 04
 ## Learning Activities
 
 ## Resources/Links
