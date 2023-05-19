@@ -6,7 +6,7 @@ This week, I focused on expanding my knowledge of Sass and Gulp. I utilized a va
 Roughly 3 hours 
 
 ## Content Insights
-**S**yntactically **a**wesome **s**tyle**s**heets or Sass is a preprocessor scripting language that has transformed my CSS workflow forever, by providing me with powerful features such as variables, mixins, and nesting. I discovered that using variables for colors, fonts, and other commonly used values significantly reduced repetition and made my stylesheets more maintainable as I no longer had to go searching to find the right hex colour code. Mixins, allowed me to reuse blocks of code across different elements, making my CSS more modular and efficient. And Nesting allowed me to write cleaner and more concise CSS code by structuring selectors hierarchically, simplifying readability and reducing repetition.
+**S**yntactically **a**wesome **s**tyle**s**heets or Sass is a preprocessor scripting language that has transformed my CSS workflow forever, by providing me with powerful features such as variables, mixins, and nesting. I discovered that using variables for colours, fonts, and other commonly used values significantly reduced repetition and made my stylesheets more maintainable as I no longer had to go searching to find the right hex colour code. Mixins, allowed me to reuse blocks of code across different elements, making my CSS more modular and efficient. And Nesting allowed me to write cleaner and more concise CSS code by structuring selectors hierarchically, simplifying readability and reducing repetition.
 
 
 ## Career/Employability/Learning Insights
